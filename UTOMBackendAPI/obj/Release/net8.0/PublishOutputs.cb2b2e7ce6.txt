@@ -1,0 +1,11 @@
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\UTOMBackendAPI.exe
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\appsettings.json
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\UTOMBackendAPI.dll
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\UTOMBackendAPI.deps.json
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\UTOMBackendAPI.runtimeconfig.json
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\UTOMBackendAPI.pdb
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\garun\source\repos\UTOMBackendAPI\UTOMBackendAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
