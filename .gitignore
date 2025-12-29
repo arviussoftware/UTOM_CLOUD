@@ -1,0 +1,21 @@
+# Visual Studio temporary files 
+.vs/ 
+bin/ 
+obj/ 
+*.user 
+*.suo 
+*.cache 
+*.db 
+*.db-shm 
+*.db-wal 
+*.log 
+# Rider / JetBrains IDEs 
+.idea/ 
+# Node / npm 
+node_modules/ 
+# Visual Studio Code 
+.vscode/ 
+# Build output 
+*.dll 
+*.exe 
+*.pdb 
