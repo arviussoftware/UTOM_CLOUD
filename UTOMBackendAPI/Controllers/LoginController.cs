@@ -13,7 +13,7 @@ namespace UTOMBackendAPI.Controllers
             return Ok(new
             {
                 Message = "Login successful",
-                userInfo= userSignIn.UserName
+                userInfo= userSignIn
             });
         }
     }
